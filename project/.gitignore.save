@@ -1,0 +1,8 @@
+.Xauthority
+.bash_history
+.cache/
+.config/
+.gitconfig
+Arduino/
+Desktop/
+Downloads/
